@@ -8,8 +8,8 @@
 SoftwareSerial esp(ESP_RX,ESP_TX);
 WiFiUDP udp;
 
-char wifi_name[] = "Airtel_0206";
-char password[] = "air60584";
+char wifi_name[] = "Computer_lab1";
+char password[] = "Ssv@1010";
 char host[255];
 const uint16_t port = 8080;
 const uint16_t tempport = 12345;   
